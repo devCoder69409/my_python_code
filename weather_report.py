@@ -7,7 +7,7 @@ def as_sun_lover(temperature):
     else:
         return "not great"
     
-def as_snow_lower(temperature):
+def as_snow_lover(temperature):
     if temperature <= 0:
         return "great"
     else:
